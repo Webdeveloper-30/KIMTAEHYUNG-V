@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap location for search engines
 Sitemap: https://kimtaehyung-btsv.github.io/KIMTAEHYUNG-V/sitemap.xml
-
-# Optional: block crawling of GitHub system files (not needed on Pages, but safe)
-Disallow: /README
-Disallow: /LICENSE
-Disallow: /CNAME
